@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <countries>
+    <c no="0" g="533" id3="ABW" name="Aruba" />
+    <c no="1" g="4" id3="AFG" name="Afghanistan" />
+    <c no="2" g="24" id3="AGO" name="Angola" />
+    <c no="3" g="660" id3="AIA" name="Anguilla" />
+    <c no="4" g="8" id3="ALB" name="Albania" />
+    <c no="5" g="20" id3="AND" name="Andorra" />
+    <c no="6" g="530" id3="ANT" name="Netherlands Antilles" />
+    <c no="7" g="784" id3="ARE" name="United Arab Emirates" />
+    <c no="8" g="32" id3="ARG" name="Argentina" />
+    <c no="9" g="51" id3="ARM" name="Armenia" />
+    <c no="10" g="16" id3="ASM" name="American Samoa" />
+    <c no="11" g="28" id3="ATG" name="Antigua and Barbuda" />
+    <c no="12" g="36" id3="AUS" name="Australia" />
+    <c no="13" g="40" id3="AUT" name="Austria" />
+    <c no="14" g="31" id3="AZE" name="Azerbaijan" />
+    <c no="15" g="108" id3="BDI" name="Burundi" />
+    <c no="16" g="56" id3="BEL" name="Belgium" />
+    <c no="17" g="204" id3="BEN" name="Benin" />
+    <c no="18" g="854" id3="BFA" name="Burkina Faso" />
+    <c no="19" g="50" id3="BGD" name="Bangladesh" />
+    <c no="20" g="100" id3="BGR" name="Bulgaria" />
+    <c no="21" g="48" id3="BHR" name="Bahrain" />
+    <c no="22" g="44" id3="BHS" name="Bahamas" />
+    <c no="23" g="70" id3="BIH" name="Bosnia and Herzegovina" />
+    <c no="24" g="112" id3="BLR" name="Belarus" />
+    <c no="25" g="84" id3="BLZ" name="Belize" />
+    <c no="26" g="60" id3="BMU" name="Bermuda" />
+    <c no="27" g="68" id3="BOL" name="Bolivia" />
+    <c no="28" g="76" id3="BRA" name="Brazil" />
+    <c no="29" g="52" id3="BRB" name="Barbados" />
+    <c no="30" g="96" id3="BRN" name="Brunei Darussalam" />
+    <c no="31" g="64" id3="BTN" name="Bhutan" />
+    <c no="32" g="72" id3="BWA" name="Botswana" />
+    <c no="33" g="140" id3="CAF" name="Central African Republic" />
+    <c no="34" g="124" id3="CAN" name="Canada" />
+    <c no="35" g="756" id3="CHE" name="Switzerland" />
+    <c no="36" g="152" id3="CHL" name="Chile" />
+    <c no="37" g="156" id3="CHN" name="China" />
+    <c no="38" g="384" id3="CIV" name="Cote d'Ivoire" />
+    <c no="39" g="120" id3="CMR" name="Cameroon" />
+    <c no="40" g="180" id3="COD" name="Congo. Democratic Republic of the" />
+    <c no="41" g="178" id3="COG" name="Congo" />
+    <c no="42" g="184" id3="COK" name="Cook Islands" />
+    <c no="43" g="170" id3="COL" name="Colombia" />
+    <c no="44" g="174" id3="COM" name="Comoros" />
+    <c no="45" g="132" id3="CPV" name="Cape Verde" />
+    <c no="46" g="188" id3="CRI" name="Costa Rica" />
+    <c no="47" g="192" id3="CUB" name="Cuba" />
+    <c no="48" g="136" id3="CYM" name="Cayman Islands" />
+    <c no="49" g="196" id3="CYP" name="Cyprus" />
+    <c no="50" g="203" id3="CZE" name="Czech Republic" />
+    <c no="51" g="276" id3="DEU" name="Germany" />
+    <c no="52" g="262" id3="DJI" name="Djibouti" />
+    <c no="53" g="212" id3="DMA" name="Dominica" />
+    <c no="54" g="208" id3="DNK" name="Denmark" />
+    <c no="55" g="214" id3="DOM" name="Dominican Republic" />
+    <c no="56" g="12" id3="DZA" name="Algeria" />
+    <c no="57" g="218" id3="ECU" name="Ecuador" />
+    <c no="58" g="818" id3="EGY" name="Egypt" />
+    <c no="59" g="232" id3="ERI" name="Eritrea" />
+    <c no="60" g="724" id3="ESP" name="Spain" />
+    <c no="61" g="233" id3="EST" name="Estonia" />
+    <c no="62" g="231" id3="ETH" name="Ethiopia" />
+    <c no="63" g="246" id3="FIN" name="Finland" />
+    <c no="64" g="242" id3="FJI" name="Fiji" />
+    <c no="65" g="238" id3="FLK" name="Falkland Islands (Malvinas)" />
+    <c no="66" g="250" id3="FRA" name="France" />
+    <c no="67" g="234" id3="FRO" name="Faroe Islands" />
+    <c no="68" g="583" id3="FSM" name="Micronesia. Federated States of" />
+    <c no="69" g="266" id3="GAB" name="Gabon" />
+    <c no="70" g="826" id3="GBR" name="United Kingdom" />
+    <c no="71" g="268" id3="GEO" name="Georgia" />
+    <c no="72" g="831" id3="GGY" name="Guernsey" />
+    <c no="73" g="288" id3="GHA" name="Ghana" />
+    <c no="74" g="292" id3="GIB" name="Gibraltar" />
+    <c no="75" g="324" id3="GIN" name="Guinea" />
+    <c no="76" g="312" id3="GLP" name="Guadeloupe" />
+    <c no="77" g="270" id3="GMB" name="Gambia" />
+    <c no="78" g="624" id3="GNB" name="Guinea-Bissau" />
+    <c no="79" g="226" id3="GNQ" name="Equatorial Guinea" />
+    <c no="80" g="300" id3="GRC" name="Greece" />
+    <c no="81" g="308" id3="GRD" name="Grenada" />
+    <c no="82" g="304" id3="GRL" name="Greenland" />
+    <c no="83" g="320" id3="GTM" name="Guatemala" />
+    <c no="84" g="254" id3="GUF" name="French Guiana" />
+    <c no="85" g="316" id3="GUM" name="Guam" />
+    <c no="86" g="328" id3="GUY" name="Guyana" />
+    <c no="87" g="344" id3="HKG" name="Hong Kong" />
+    <c no="88" g="340" id3="HND" name="Honduras" />
+    <c no="89" g="191" id3="HRV" name="Croatia" />
+    <c no="90" g="332" id3="HTI" name="Haiti" />
+    <c no="91" g="348" id3="HUN" name="Hungary" />
+    <c no="92" g="360" id3="IDN" name="Indonesia" />
+    <c no="93" g="833" id3="IMN" name="Isle of Man" />
+    <c no="94" g="356" id3="IND" name="India" />
+    <c no="95" g="372" id3="IRL" name="Ireland" />
+    <c no="96" g="364" id3="IRN" name="Iran. Islamic Republic of" />
+    <c no="97" g="368" id3="IRQ" name="Iraq" />
+    <c no="98" g="352" id3="ISL" name="Iceland" />
+    <c no="99" g="376" id3="ISR" name="Israel" />
+    <c no="100" g="380" id3="ITA" name="Italy" />
+    <c no="101" g="388" id3="JAM" name="Jamaica" />
+    <c no="102" g="832" id3="JEY" name="Jersey" />
+    <c no="103" g="400" id3="JOR" name="Jordan" />
+    <c no="104" g="392" id3="JPN" name="Japan" />
+    <c no="105" g="398" id3="KAZ" name="Kazakhstan" />
+    <c no="106" g="404" id3="KEN" name="Kenya" />
+    <c no="107" g="417" id3="KGZ" name="Kyrgyzstan" />
+    <c no="108" g="116" id3="KHM" name="Cambodia" />
+    <c no="109" g="296" id3="KIR" name="Kiribati" />
+    <c no="110" g="659" id3="KNA" name="Saint Kitts and Nevis" />
+    <c no="111" g="410" id3="KOR" name="Korea. Republic of" />
+    <c no="112" g="414" id3="KWT" name="Kuwait" />
+    <c no="113" g="418" id3="LAO" name="Lao People's Democratic Republic" />
+    <c no="114" g="422" id3="LBN" name="Lebanon" />
+    <c no="115" g="430" id3="LBR" name="Liberia" />
+    <c no="116" g="434" id3="LBY" name="Libyan Arab Jamahiriya" />
+    <c no="117" g="662" id3="LCA" name="Saint Lucia" />
+    <c no="118" g="438" id3="LIE" name="Liechtenstein" />
+    <c no="119" g="144" id3="LKA" name="Sri Lanka" />
+    <c no="120" g="426" id3="LSO" name="Lesotho" />
+    <c no="121" g="440" id3="LTU" name="Lithuania" />
+    <c no="122" g="442" id3="LUX" name="Luxembourg" />
+    <c no="123" g="428" id3="LVA" name="Latvia" />
+    <c no="124" g="446" id3="MAC" name="Macao" />
+    <c no="125" g="504" id3="MAR" name="Morocco" />
+    <c no="126" g="492" id3="MCO" name="Monaco" />
+    <c no="127" g="498" id3="MDA" name="Moldova. Republic of" />
+    <c no="128" g="450" id3="MDG" name="Madagascar" />
+    <c no="129" g="462" id3="MDV" name="Maldives" />
+    <c no="130" g="484" id3="MEX" name="Mexico" />
+    <c no="131" g="584" id3="MHL" name="Marshall Islands" />
+    <c no="132" g="807" id3="MKD" name="Macedonia. the former Yugoslav Republic of" />
+    <c no="133" g="466" id3="MLI" name="Mali" />
+    <c no="134" g="470" id3="MLT" name="Malta" />
+    <c no="135" g="104" id3="MMR" name="Myanmar" />
+    <c no="136" g="496" id3="MNG" name="Mongolia" />
+    <c no="137" g="580" id3="MNP" name="Northern Mariana Islands" />
+    <c no="138" g="508" id3="MOZ" name="Mozambique" />
+    <c no="139" g="478" id3="MRT" name="Mauritania" />
+    <c no="140" g="500" id3="MSR" name="Montserrat" />
+    <c no="141" g="474" id3="MTQ" name="Martinique" />
+    <c no="142" g="480" id3="MUS" name="Mauritius" />
+    <c no="143" g="454" id3="MWI" name="Malawi" />
+    <c no="144" g="458" id3="MYS" name="Malaysia" />
+    <c no="145" g="175" id3="MYT" name="Mayotte" />
+    <c no="146" g="516" id3="NAM" name="Namibia" />
+    <c no="147" g="540" id3="NCL" name="New Caledonia" />
+    <c no="148" g="562" id3="NER" name="Niger" />
+    <c no="149" g="574" id3="NFK" name="Norfolk Island" />
+    <c no="150" g="566" id3="NGA" name="Nigeria" />
+    <c no="151" g="558" id3="NIC" name="Nicaragua" />
+    <c no="152" g="570" id3="NIU" name="Niue" />
+    <c no="153" g="528" id3="NLD" name="Netherlands" />
+    <c no="154" g="578" id3="NOR" name="Norway" />
+    <c no="155" g="524" id3="NPL" name="Nepal" />
+    <c no="156" g="520" id3="NRU" name="Nauru" />
+    <c no="157" g="554" id3="NZL" name="New Zealand" />
+    <c no="158" g="512" id3="OMN" name="Oman" />
+    <c no="159" g="586" id3="PAK" name="Pakistan" />
+    <c no="160" g="591" id3="PAN" name="Panama" />
+    <c no="161" g="612" id3="PCN" name="Pitcairn" />
+    <c no="162" g="604" id3="PER" name="Peru" />
+    <c no="163" g="608" id3="PHL" name="Philippines" />
+    <c no="164" g="585" id3="PLW" name="Palau" />
+    <c no="165" g="598" id3="PNG" name="Papua New Guinea" />
+    <c no="166" g="616" id3="POL" name="Poland" />
+    <c no="167" g="630" id3="PRI" name="Puerto Rico" />
+    <c no="168" g="408" id3="PRK" name="Korea. Democratic People's Republic of" />
+    <c no="169" g="620" id3="PRT" name="Portugal" />
+    <c no="170" g="600" id3="PRY" name="Paraguay" />
+    <c no="171" g="275" id3="PSE" name="Palestinian Territory. Occupied" />
+    <c no="172" g="258" id3="PYF" name="French Polynesia" />
+    <c no="173" g="634" id3="QAT" name="Qatar" />
+    <c no="174" g="638" id3="REU" name="Reunion" />
+    <c no="175" g="642" id3="ROU" name="Romania" />
+    <c no="176" g="643" id3="RUS" name="Russian Federation" />
+    <c no="177" g="646" id3="RWA" name="Rwanda" />
+    <c no="178" g="682" id3="SAU" name="Saudi Arabia" />
+    <c no="179" g="688" id3="SCG" name="Serbia" />
+    <c no="180" g="736" id3="SDN" name="Sudan" />
+    <c no="181" g="686" id3="SEN" name="Senegal" />
+    <c no="182" g="702" id3="SGP" name="Singapore" />
+    <c no="183" g="654" id3="SHN" name="Saint Helena" />
+    <c no="184" g="744" id3="SJM" name="Svalbard and Jan Mayen" />
+    <c no="185" g="90" id3="SLB" name="Solomon Islands" />
+    <c no="186" g="694" id3="SLE" name="Sierra Leone" />
+    <c no="187" g="222" id3="SLV" name="El Salvador" />
+    <c no="188" g="674" id3="SMR" name="San Marino" />
+    <c no="189" g="706" id3="SOM" name="Somalia" />
+    <c no="190" g="666" id3="SPM" name="Saint Pierre and Miquelon" />
+    <c no="191" g="678" id3="STP" name="Sao Tome and Principe" />
+    <c no="192" g="740" id3="SUR" name="Suriname" />
+    <c no="193" g="703" id3="SVK" name="Slovakia" />
+    <c no="194" g="705" id3="SVN" name="Slovenia" />
+    <c no="195" g="752" id3="SWE" name="Sweden" />
+    <c no="196" g="748" id3="SWZ" name="Swaziland" />
+    <c no="197" g="690" id3="SYC" name="Seychelles" />
+    <c no="198" g="760" id3="SYR" name="Syrian Arab Republic" />
+    <c no="199" g="796" id3="TCA" name="Turks and Caicos Islands" />
+    <c no="200" g="148" id3="TCD" name="Chad" />
+    <c no="201" g="768" id3="TGO" name="Togo" />
+    <c no="202" g="764" id3="THA" name="Thailand" />
+    <c no="203" g="762" id3="TJK" name="Tajikistan" />
+    <c no="204" g="772" id3="TKL" name="Tokelau" />
+    <c no="205" g="795" id3="TKM" name="Turkmenistan" />
+    <c no="206" g="626" id3="TLS" name="Timor-Leste" />
+    <c no="207" g="776" id3="TON" name="Tonga" />
+    <c no="208" g="780" id3="TTO" name="Trinidad and Tobago" />
+    <c no="209" g="788" id3="TUN" name="Tunisia" />
+    <c no="210" g="792" id3="TUR" name="Turkey" />
+    <c no="211" g="798" id3="TUV" name="Tuvalu" />
+    <c no="212" g="158" id3="TWN" name="Taiwan. Province of China" />
+    <c no="213" g="834" id3="TZA" name="Tanzania. United Republic of" />
+    <c no="214" g="800" id3="UGA" name="Uganda" />
+    <c no="215" g="804" id3="UKR" name="Ukraine" />
+    <c no="216" g="858" id3="URY" name="Uruguay" />
+    <c no="217" g="840" id3="USA" name="United States" />
+    <c no="218" g="860" id3="UZB" name="Uzbekistan" />
+    <c no="219" g="670" id3="VCT" name="Saint Vincent and the Grenadines" />
+    <c no="220" g="862" id3="VEN" name="Venezuela. Bolivarian Republic of" />
+    <c no="221" g="92" id3="VGB" name="Virgin Islands. British" />
+    <c no="222" g="850" id3="VIR" name="Virgin Islands. U.S." />
+    <c no="223" g="704" id3="VNM" name="Viet Nam" />
+    <c no="224" g="548" id3="VUT" name="Vanuatu" />
+    <c no="225" g="876" id3="WLF" name="Wallis and Futuna" />
+    <c no="226" g="882" id3="WSM" name="Samoa" />
+    <c no="227" g="887" id3="YEM" name="Yemen" />
+    <c no="228" g="710" id3="ZAF" name="South Africa" />
+    <c no="229" g="894" id3="ZMB" name="Zambia" />
+    <c no="230" g="716" id3="ZWE" name="Zimbabwe" />
+  </countries>

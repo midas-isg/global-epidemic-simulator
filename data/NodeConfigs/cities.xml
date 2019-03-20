@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cities>
+<c y="82.28" x="-62.30" n="Alert Nunavut" c="Canada" />
+<c y="78.13" x="15.33" n="Longyearbyen, Svalbard" c="Norway" />
+<c y="77.28" x="-69.14" n="Qaanaaq, Qaasuitsup" c="Greenland" />
+<c y="71.18" x="-156.45" n="Barrow, Alaska" c="United States" />
+<c y="70.39" x="23.41" n="Hammerfest" c="Norway" />
+<c y="70.12" x="-148.30" n="Deadhorse, Alaska" c="United States" />
+<c y="70.04" x="29.44" n="Vadsø" c="Norway" />
+<c y="69.40" x="18.56" n="Tromsø" c="Norway" />
+<c y="69.21" x="88.12" n="Norilsk" c="Russia" />
+<c y="68.58" x="33.04" n="Murmansk" c="Russia" />
+<c y="67.51" x="20.13" n="Kiruna" c="Sweden" />
+<c y="67.18" x="14.33" n="Bodø" c="Norway" />
+<c y="67.07" x="20.45" n="Gällivare-Malmberget-Koskullskulle" c="Sweden" />
+<c y="66.42" x="27.26" n="Kemijärvi" c="Finland" />
+<c y="66.30" x="25.44" n="Rovaniemi" c="Finland" />
+<c y="66.04" x="-23.07" n="Ísafjörður" c="Iceland" />
+<c y="65.58" x="29.11" n="Kuusamo" c="Finland" />
+<c y="65.60" x="22.13" n="Luleå" c="Sweden" />
+<c y="65.51" x="24.09" n="Tornio" c="Finland" />
+<c y="65.50" x="21.43" n="Boden" c="Sweden" />
+<c y="65.50" x="24.08" n="Haparanda" c="Sweden" />
+<c y="65.44" x="24.34" n="Kemi" c="Finland" />
+<c y="65.41" x="-18.06" n="Akureyri" c="Iceland" />
+<c y="65.32" x="21.51" n="Piteå" c="Sweden" />
+<c y="65.21" x="27.00" n="Pudasjärvi" c="Finland" />
+<c y="65.01" x="25.28" n="Oulu" c="Finland" />
+<c y="64.76" x="20.99" n="Skellefteå" c="Sweden" />
+<c y="64.50" x="-147.43" n="Fairbanks, Alaska" c="United States" />
+<c y="64.32" x="40.32" n="Arkhangelsk" c="Russia" />
+<c y="64.10" x="-51.43" n="Nuuk (Godthåb), Greenland" c="Greenland" />
+<c y="64.08" x="-21.56" n="Reykjavík" c="Iceland" />
+<c y="63.50" x="20.15" n="Umeå" c="Sweden" />
+<c y="63.45" x="-68.31" n="Iqaluit, Nunavut" c="Canada" />
+<c y="63.30" x="18.72" n="Örnsköldsvik" c="Sweden" />
+<c y="63.25" x="10.23" n="Trondheim" c="Norway" />
+<c y="63.18" x="14.65" n="Östersund" c="Sweden" />
+<c y="63.10" x="22.00" n="Vaasa" c="Finland" />
+<c y="62.53" x="27.40" n="Kuopio" c="Finland" />
+<c y="62.40" x="17.33" n="Sundsvall" c="Sweden" />
+<c y="62.27" x="-114.24" n="Yellowknife, Northwest Territories" c="Canada" />
+<c y="62.2" x="129.44" n="Yakutsk" c="Russia" />
+<c y="62.14" x="25.44" n="Jyväskylä" c="Finland" />
+<c y="62.0" x="-6.46" n="Tórshavn, Faroe Islands" c="Denmark" />
+<c y="61.30" x="23.45" n="Tampere" c="Finland" />
+<c y="61.13" x="-149.54" n="Anchorage, Alaska" c="United States" />
+<c y="61.07" x="10.25" n="Lillehammer" c="Norway" />
+<c y="60.59" x="25.39" n="Lahti" c="Finland" />
+<c y="60.41" x="-135.08" n="Whitehorse, Yukon" c="Canada" />
+<c y="60.27" x="22.16" n="Turku" c="Finland" />
+<c y="60.22" x="5.24" n="Bergen" c="Norway" />
+<c y="60.17" x="25.02" n="Vantaa" c="Finland" />
+<c y="60.12" x="24.39" n="Espoo" c="Finland" />
+<c y="60.12" x="24.56" n="Helsinki" c="Finland" />
+<c y="59.56" x="30.20" n="Saint Petersburg" c="Russia" />
+<c y="59.56" x="10.45" n="Oslo" c="Norway" />
+<c y="59.51" x="17.38" n="Uppsala" c="Sweden" />
+<c y="59.26" x="24.45" n="Tallinn" c="Estonia" />
+<c y="59.21" x="18.04" n="Stockholm" c="Sweden" />
+<c y="59.17" x="11.06" n="Sarpsborg" c="Norway" />
+<c y="58.36" x="16.12" n="Norrköping" c="Sweden" />
+<c y="58.23" x="26.43" n="Tartu" c="Estonia" />
+<c y="58.23" x="-134.11" n="Juneau, Alaska" c="United States" />
+<c y="58.10" x="08.02" n="Kristiansand" c="Norway" />
+<c y="58.0" x="56.19" n="Perm" c="Russia" />
+<c y="57.47" x="-04.23" n="Inverness, Scotland" c="United Kingdom" />
+<c y="57.42" x="11.55" n="Gothenburg" c="Sweden" />
+<c y="57.37" x="39.51" n="Yaroslavl" c="Russia" />
+<c y="57.15" x="-02.11" n="Aberdeen, Scotland" c="United Kingdom" />
+<c y="56.58" x="24.8" n="Riga" c="Latvia" />
+<c y="56.50" x="60.35" n="Yekaterinburg" c="Russia" />
+<c y="56.50" x="53.11" n="Izhevsk" c="Russia" />
+<c y="56.44" x="-111.23" n="Fort McMurray, Alberta" c="Canada" />
+<c y="56.20" x="44.00" n="Nizhny Novgorod" c="Russia" />
+<c y="56.10" x="101.37" n="Bratsk" c="Russia" />
+<c y="56.09" x="10.12" n="Aarhus" c="Denmark" />
+<c y="56.01" x="93.04" n="Krasnoyarsk" c="Russia" />
+<c y="55.57" x="-03.12" n="Edinburgh, Scotland" c="United Kingdom" />
+<c y="55.52" x="-04.15" n="Glasgow, Scotland" c="United Kingdom" />
+<c y="55.47" x="49.10" n="Kazan" c="Russia" />
+<c y="55.45" x="37.37" n="Moscow" c="Russia" />
+<c y="55.43" x="12.34" n="Copenhagen" c="Denmark" />
+<c y="55.35" x="13.02" n="Malmö" c="Sweden" />
+<c y="55.23" x="10.23" n="Odense" c="Denmark" />
+<c y="55.10" x="-118.48" n="Grande Prairie, Alberta" c="Canada" />
+<c y="55.09" x="61.22" n="Chelyabinsk" c="Russia" />
+<c y="55.01" x="82.56" n="Novosibirsk" c="Russia" />
+<c y="54.59" x="73.22" n="Omsk" c="Russia" />
+<c y="54.58" x="-01.36" n="Newcastle upon Tyne, England" c="United Kingdom" />
+<c y="54.45" x="55.58" n="Ufa" c="Russia" />
+<c y="54.41" x="25.17" n="Vilnius" c="Lithuania" />
+<c y="54.36" x="-5.56" n="Belfast, Northern Ireland" c="United Kingdom" />
+<c y="54.30" x="18.32" n="Gdynia" c="Poland" />
+<c y="54.21" x="18.40" n="Gdańsk" c="Poland" />
+<c y="54.20" x="10.08" n="Kiel" c="Germany" />
+<c y="53.55" x="27.33" n="Minsk" c="Belarus" />
+<c y="53.48" x="-1.33" n="Leeds, England" c="United Kingdom" />
+<c y="53.34" x="10.02" n="Hamburg" c="Germany" />
+<c y="53.34" x="-113.31" n="Edmonton, Alberta" c="Canada" />
+<c y="53.29" x="-2.15" n="Manchester, England" c="United Kingdom" />
+<c y="53.29" x="49.31" n="Tolyatti" c="Russia" />
+<c y="53.25" x="-2.59" n="Liverpool, England" c="United Kingdom" />
+<c y="53.23" x="-1.28" n="Sheffield, England" c="United Kingdom" />
+<c y="53.21" x="-6.16" n="Dublin" c="Ireland" />
+<c y="53.14" x="50.10" n="Samara" c="Russia" />
+<c y="53.13" x="6.34" n="Groningen" c="Netherlands" />
+<c y="53.04" x="8.49" n="Bremen" c="Germany" />
+<c y="53.01" x="158.39" n="Petropavlovsk-Kamchatsky" c="Russia" />
+<c y="52.57" x="-01.08" n="Nottingham, England" c="United Kingdom" />
+<c y="52.63" x="01.29" n="Norwich, England" c="United Kingdom" />
+<c y="52.63" x="-1.14" n="Leicester, England" c="United Kingdom" />
+<c y="52.35" x="-0.15" n="Peterborough, England" c="United Kingdom" />
+<c y="52.31" x="13.25" n="Berlin" c="Germany" />
+<c y="52.29" x="-1.54" n="Birmingham, England" c="United Kingdom" />
+<c y="52.24" x="-1.30" n="Coventry, England" c="United Kingdom" />
+<c y="52.22" x="4.54" n="Amsterdam" c="Netherlands" />
+<c y="52.22" x="4.38" n="Haarlem" c="Netherlands" />
+<c y="52.17" x="104.16" n="Irkutsk" c="Russia" />
+<c y="52.14" x="21.01" n="Warsaw" c="Poland" />
+<c y="52.13" x="6.53" n="Enschede" c="Netherlands" />
+<c y="52.13" x="-106.65" n="Saskatoon, Saskatchewan" c="Canada" />
+<c y="52.12" x="0.07" n="Cambridge, England" c="United Kingdom" />
+<c y="52.09" x="4.30" n="Leiden" c="Netherlands" />
+<c y="52.05" x="5.6" n="Utrecht" c="Netherlands" />
+<c y="52.04" x="4.18" n="The Hague" c="Netherlands" />
+<c y="51.87" x="-2.24" n="Gloucester, England" c="United Kingdom" />
+<c y="51.56" x="4.28" n="Rotterdam" c="Netherlands" />
+<c y="51.45" x="-1.15" n="Oxford, England" c="United Kingdom" />
+<c y="51.40" x="39.12" n="Voronezh" c="Russia" />
+<c y="51.38" x="-2.36" n="Bath, England" c="United Kingdom" />
+<c y="51.37" x="-3.57" n="Swansea, Wales" c="United Kingdom" />
+<c y="51.32" x="46.01" n="Saratov" c="Russia" />
+<c y="51.30" x="-0.08" n="London, England" c="United Kingdom" />
+<c y="51.29" x="-3.11" n="Cardiff, Wales" c="United Kingdom" />
+<c y="51.27" x="-2.36" n="Bristol, England" c="United Kingdom" />
+<c y="51.13" x="04.24" n="Antwerp" c="Belgium" />
+<c y="51.10" x="71.26" n="Astana" c="Kazakhstan" />
+<c y="51.03" x="-114.03" n="Calgary, Alberta" c="Canada" />
+<c y="51.00" x="-1.04" n="Southampton, England" c="United Kingdom" />
+<c y="50.51" x="4.21" n="Brussels" c="Belgium" />
+<c y="50.51" x="5.41" n="Maastricht" c="Netherlands" />
+<c y="50.49" x="-1.05" n="Portsmouth, England" c="United Kingdom" />
+<c y="50.49" x="-0.09" n="Brighton and Hove, England" c="United Kingdom" />
+<c y="50.27" x="-104.61" n="Regina, Saskatchewan" c="Canada" />
+<c y="50.43" x="-3.32" n="Exeter, England" c="United Kingdom" />
+<c y="50.41" x="-120.20" n="Kamloops, British Columbia" c="Canada" />
+<c y="50.27" x="30.30" n="Kiev" c="Ukraine" />
+<c y="50.22" x="-4.08" n="Plymouth, England" c="United Kingdom" />
+<c y="50.07" x="8.41" n="Frankfurt am Main, Hesse" c="Germany" />
+<c y="50.05" x="14.26" n="Prague" c="Czech Republic" />
+<c y="50.03" x="19.56" n="Kraków" c="Poland" />
+<c y="49.54" x="-97.08" n="Winnipeg, Manitoba" c="Canada" />
+<c y="49.51" x="24.01" n="Lviv, Lviv Oblast" c="Ukraine" />
+<c y="49.37" x="6.08" n="Luxembourg" c="Luxembourg" />
+<c y="49.32" x="-119.18" n="Kelowna, British Columbia" c="Canada" />
+<c y="49.16" x="-123.07" n="Vancouver, British Columbia" c="Canada" />
+<c y="48.52" x="2.20" n="Paris" c="France" />
+<c y="48.42" x="44.31" n="Volgograd" c="Russia" />
+<c y="48.25" x="-123.22" n="Victoria, British Columbia" c="Canada" />
+<c y="48.22" x="-89.19" n="Thunder Bay, Ontario" c="Canada" />
+<c y="48.13" x="16.22" n="Vienna" c="Austria" />
+<c y="48.09" x="17.07" n="Bratislava" c="Slovakia" />
+<c y="48.08" x="11.34" n="Munich, Bavaria" c="Germany" />
+<c y="47.55" x="106.55" n="Ulan Bator" c="Mongolia" />
+<c y="47.36" x="-122.19" n="Seattle, Washington" c="United States" />
+<c y="47.34" x="7.36" n="Basel" c="Switzerland" />
+<c y="47.33" x="-52.40" n="St. John's, Newfoundland and Labrador" c="Canada" />
+<c y="47.28" x="19.03" n="Budapest" c="Hungary" />
+<c y="47.22" x="8.33" n="Zürich" c="Switzerland" />
+<c y="47.14" x="39.42" n="Rostov-on-Don" c="Russia" />
+<c y="47.08" x="9.31" n="Vaduz" c="Liechtenstein" />
+<c y="47.00" x="28.55" n="Chişinău" c="Moldova" />
+<c y="46.57" x="7.27" n="Bern" c="Switzerland" />
+<c y="46.51" x="-29.38" n="Tiraspol, Transnistria" c="Moldova" />
+<c y="46.49" x="-71.13" n="Quebec City, Quebec" c="Canada" />
+<c y="46.48" x="-100.46" n="Bismarck, North Dakota" c="United States" />
+<c y="46.37" x="-80.48" n="Sudbury, Ontario" c="Canada" />
+<c y="46.35" x="-112.1" n="Helena, Montana" c="United States" />
+<c y="46.32" x="-84.20" n="Sault Ste. Marie, Ontario" c="Canada" />
+<c y="46.31" x="6.38" n="Lausanne" c="Switzerland" />
+<c y="46.28" x="30.44" n="Odessa" c="Ukraine" />
+<c y="46.22" x="-79.25" n="North Bay, Ontario" c="Canada" />
+<c y="46.14" x="-63.8" n="Charlottetown, Prince Edward Island" c="Canada" />
+<c y="46.12" x="6.09" n="Geneva" c="Switzerland" />
+<c y="46.08" x="-64.46" n="Moncton, New Brunswick" c="Canada" />
+<c y="46.03" x="14.30" n="Ljubljana" c="Slovenia" />
+<c y="45.57" x="-66.40" n="Fredericton, New Brunswick" c="Canada" />
+<c y="45.49" x="15.59" n="Zagreb" c="Croatia" />
+<c y="45.46" x="4.50" n="Lyon" c="France" />
+<c y="45.45" x="126.41" n="Harbin, Heilongjiang" c="People's Republic of China" />
+<c y="45.31" x="-122.41" n="Portland, Oregon" c="United States" />
+<c y="45.31" x="-73.33" n="Montreal, Quebec" c="Canada" />
+<c y="45.28" x="9.10" n="Milan" c="Italy" />
+<c y="45.26" x="12.19" n="Venice" c="Italy" />
+<c y="45.26" x="-75.41" n="Ottawa, Ontario" c="Canada" />
+<c y="45.17" x="-66.4" n="Saint John, New Brunswick" c="Canada" />
+<c y="45.04" x="7.40" n="Turin" c="Italy" />
+<c y="45.02" x="38.58" n="Krasnodar" c="Russia" />
+<c y="44.59" x="-93.15" n="Minneapolis, Minnesota" c="United States" />
+<c y="44.57" x="34.06" n="Simferopol, Crimea" c="Ukraine" />
+<c y="44.50" x="-00.35" n="Bordeaux" c="France" />
+<c y="44.48" x="20.28" n="Belgrade" c="Serbia" />
+<c y="44.45" x="19.41" n="Šabac" c="Serbia" />
+<c y="44.39" x="-63.34" n="Halifax, Nova Scotia" c="Canada" />
+<c y="44.25" x="26.06" n="Bucharest" c="Romania" />
+<c y="44.22" x="-100.20" n="Pierre, South Dakota" c="United States" />
+<c y="44.18" x="-69.46" n="Augusta, Maine" c="United States" />
+<c y="44.15" x="-72.34" n="Montpelier, Vermont" c="United States" />
+<c y="43.56" x="12.26" n="San Marino" c="San Marino" />
+<c y="43.52" x="18.25" n="Sarajevo" c="Bosnia and Herzegovina" />
+<c y="43.52" x="125.19" n="Changchun, Jilin" c="People's Republic of China" />
+<c y="43.50" x="-66.50" n="Yarmouth, Nova Scotia" c="Canada" />
+<c y="43.46" x="11.15" n="Florence" c="Italy" />
+<c y="43.44" x="7.24" n="Monaco" c="Monaco" />
+<c y="43.42" x="7.16" n="Nice" c="France" />
+<c y="43.39" x="-79.23" n="Toronto, Ontario" c="Canada" />
+<c y="43.36" x="-116.12" n="Boise, Idaho" c="United States" />
+<c y="43.35" x="39.43" n="Sochi" c="Russia" />
+<c y="43.18" x="5.22" n="Marseille" c="France" />
+<c y="43.17" x="76.54" n="Almaty" c="Kazakhstan" />
+<c y="43.15" x="-2.55" n="Bilbao, Basque Country" c="Spain" />
+<c y="43.12" x="71.32" n="Concord, New Hampshire" c="United States" />
+<c y="43.08" x="131.54" n="Vladivostok" c="Russia" />
+<c y="43.04" x="141.21" n="Sapporo" c="Japan" />
+<c y="43.03" x="-87.57" n="Milwaukee, Wisconsin" c="United States" />
+<c y="43.00" x="41.01" n="Sukhumi, Abkhazia" c="Georgia" />
+<c y="42.54" x="-78.51" n="Buffalo, New York" c="United States" />
+<c y="42.52" x="74.37" n="Bishkek" c="Kyrgyzstan" />
+<c y="42.42" x="23.20" n="Sofia" c="Bulgaria" />
+<c y="42.40" x="21.10" n="Pristina" c="Kosovo" />
+<c y="42.30" x="1.30" n="Andorra la Vella" c="Andorra" />
+<c y="42.28" x="19.17" n="Podgorica" c="Montenegro" />
+<c y="42.28" x="59.36" n="Nukus, Karakalpakstan" c="Uzbekistan" />
+<c y="42.21" x="-71.04" n="Boston, Massachusetts" c="United States" />
+<c y="42.20" x="-83.03" n="Detroit, Michigan" c="United States" />
+<c y="42.14" x="43.58" n="Tskhinvali, South Ossetia" c="Georgia" />
+<c y="42.0" x="21.26" n="Skopje" c="Macedonia" />
+<c y="41.54" x="12.29" n="Rome" c="Italy" />
+<c y="41.54" x="12.27" n="Vatican City" c="Vatican City" />
+<c y="41.50" x="-87.39" n="Chicago, Illinois" c="United States" />
+<c y="41.49" x="-71.25" n="Providence, Rhode Island" c="United States" />
+<c y="41.48" x="129.47" n="Chongjin" c="North Korea" />
+<c y="41.48" x="123.25" n="Shenyang, Liaoning" c="People's Republic of China" />
+<c y="41.45" x="-72.41" n="Hartford, Connecticut" c="United States" />
+<c y="41.43" x="44.47" n="Tbilisi" c="Georgia" />
+<c y="41.39" x="-0.53" n="Zaragoza, Aragon" c="Spain" />
+<c y="41.38" x="71.58" n="Namangan" c="Uzbekistan" />
+<c y="41.35" x="-93.37" n="Des Moines, Iowa" c="United States" />
+<c y="41.29" x="-81.40" n="Cleveland, Ohio" c="United States" />
+<c y="41.23" x="2.11" n="Barcelona, Catalonia" c="Spain" />
+<c y="41.20" x="19.49" n="Tirana" c="Albania" />
+<c y="41.16" x="69.13" n="Tashkent" c="Uzbekistan" />
+<c y="41.09" x="-8.38" n="Porto" c="Portugal" />
+<c y="41.08" x="-104.48" n="Cheyenne, Wyoming" c="United States" />
+<c y="41.02" x="49.53" n="Baku" c="Azerbaijan" />
+<c y="41.00" x="29.00" n="Istanbul" c="Turkey" />
+<c y="40.50" x="14.15" n="Naples" c="Italy" />
+<c y="40.48" x="-96.40" n="Lincoln, Nebraska" c="United States" />
+<c y="40.45" x="-111.53" n="Salt Lake City, Utah" c="United States" />
+<c y="40.43" x="-74.00" n="New York, New York" c="United States" />
+<c y="40.38" x="22.57" n="Thessaloniki" c="Greece" />
+<c y="40.27" x="-80.00" n="Pittsburgh, Pennsylvania" c="United States" />
+<c y="40.23" x="-3.43" n="Madrid, Madrid" c="Spain" />
+<c y="40.20" x="29.08" n="Bursa" c="Turkey" />
+<c y="40.13" x="-74.45" n="Trenton, New Jersey" c="United States" />
+<c y="40.10" x="44.31" n="Yerevan" c="Armenia" />
+<c y="39.59" x="-82.59" n="Columbus, Ohio" c="United States" />
+<c y="39.57" x="-75.10" n="Philadelphia, Pennsylvania" c="United States" />
+<c y="39.54" x="116.23" n="Beijing" c="People's Republic of China" />
+<c y="39.52" x="32.52" n="Ankara" c="Turkey" />
+<c y="39.46" x="-86.09" n="Indianapolis, Indiana" c="United States" />
+<c y="39.45" x="-104.59" n="Denver, Colorado" c="United States" />
+<c y="39.34" x="2.39" n="Palma, Balearic Islands" c="Spain" />
+<c y="39.31" x="-119.49" n="Reno, Nevada" c="United States" />
+<c y="39.29" x="-0.22" n="Valencia, Valencian Community" c="Spain" />
+<c y="39.17" x="-76.37" n="Baltimore, Maryland" c="United States" />
+<c y="39.14" x="9.7" n="Cagliari" c="Italy" />
+<c y="39.09" x="-75.31" n="Dover, Delaware" c="United States" />
+<c y="39.08" x="127.26" n="Wonsan" c="North Korea" />
+<c y="39.08" x="-84.30" n="Cincinnati, Ohio" c="United States" />
+<c y="39.08" x="117.11" n="Tianjin" c="People's Republic of China" />
+<c y="39.06" x="-94.35" n="Kansas City, Missouri" c="United States" />
+<c y="39.02" x="125.45" n="Pyongyang" c="North Korea" />
+<c y="38.54" x="-77.02" n="Washington, D.C." c="United States" />
+<c y="38.42" x="-9.11" n="Lisbon" c="Portugal" />
+<c y="38.39" x="-90.13" n="St. Louis, Missouri" c="United States" />
+<c y="38.32" x="68.47" n="Dushanbe" c="Tajikistan" />
+<c y="38.28" x="23.36" n="Halkida" c="Greece" />
+<c y="38.20" x="-81.38" n="Charleston, West Virginia" c="United States" />
+<c y="38.15" x="-85.46" n="Louisville, Kentucky" c="United States" />
+<c y="38.11" x="15.33" n="Messina" c="Italy" />
+<c y="38.07" x="13.22" n="Palermo" c="Italy" />
+<c y="38.00" x="23.43" n="Athens" c="Greece" />
+<c y="37.58" x="58.20" n="Ashgabat" c="Turkmenistan" />
+<c y="37.58" x="126.33" n="Kaesong" c="North Korea" />
+<c y="37.52" x="32.29" n="Konya" c="Turkey" />
+<c y="37.48" x="35.57" n="Adana" c="Turkey" />
+<c y="37.46" x="-122.26" n="San Francisco, California" c="United States" />
+<c y="37.41" x="-97.20" n="Wichita, Kansas" c="United States" />
+<c y="37.33" x="126.59" n="Seoul" c="South Korea" />
+<c y="37.30" x="15.05" n="Catania" c="Italy" />
+<c y="37.23" x="-5.59" n="Sevilla, Andalusia" c="Spain" />
+<c y="37.12" x="-93.17" n="Springfield, Missouri" c="United States" />
+<c y="36.51" x="-75.59" n="Virginia Beach, Virginia" c="United States" />
+<c y="36.47" x="3.04" n="Algiers" c="Algeria" />
+<c y="36.22" x="43.07" n="Mosul" c="Iraq" />
+<c y="36.18" x="59.37" n="Mashhad" c="Iran" />
+<c y="36.11" x="-115.13" n="Las Vegas, Nevada" c="United States" />
+<c y="36.08" x="-5.21" n="Gibraltar" c="Gibraltar" />
+<c y="36.08" x="10.17" n="Tunis" c="Tunisia" />
+<c y="36.07" x="-95.56" n="Tulsa, Oklahoma" c="United States" />
+<c y="36.05" x="120.20" n="Qingdao, Shandong" c="People's Republic of China" />
+<c y="36.00" x="-86.47" n="Nashville, Tennessee" c="United States" />
+<c y="35.54" x="14.31" n="Valletta" c="Malta" />
+<c y="35.42" x="51.25" n="Tehran" c="Iran" />
+<c y="35.41" x="139.46" n="Tokyo" c="Japan" />
+<c y="35.29" x="-97.32" n="Oklahoma City, Oklahoma" c="United States" />
+<c y="35.26" x="139.38" n="Yokohama" c="Japan" />
+<c y="35.14" x="-80.50" n="Charlotte, North Carolina" c="United States" />
+<c y="35.07" x="-89.58" n="Memphis, Tennessee" c="United States" />
+<c y="35.07" x="136.56" n="Nagoya" c="Japan" />
+<c y="35.06" x="-106.35" n="Albuquerque, New Mexico" c="United States" />
+<c y="35.31" x="35.47" n="Latakia" c="Syria" />
+<c y="35.30" x="139.45" n="Kawasaki" c="Japan" />
+<c y="35.28" x="44.24" n="Kirkuk" c="Iraq" />
+<c y="35.10" x="33.21" n="Nicosia" c="Cyprus" />
+<c y="35.06" x="129.02" n="Busan" c="South Korea" />
+<c y="35.01" x="135.45" n="Kyoto" c="Japan" />
+<c y="34.45" x="113.38" n="Zhengzhou, Henan" c="People's Republic of China" />
+<c y="34.44" x="10.46" n="Sfax" c="Tunisia" />
+<c y="34.44" x="-92.19" n="Little Rock, Arkansas" c="United States" />
+<c y="34.42" x="135.09" n="Kōbe" c="Japan" />
+<c y="34.42" x="135.30" n="Osaka" c="Japan" />
+<c y="34.31" x="69.11" n="Kabul" c="Afghanistan" />
+<c y="34.23" x="132.27" n="Hiroshima" c="Japan" />
+<c y="34.05" x="74.47" n="Srinagar, Jammu and Kashmir" c="India" />
+<c y="34.03" x="-118.15" n="Los Angeles, California" c="United States" />
+<c y="34.02" x="-6.50" n="Rabat" c="Morocco" />
+<c y="34.00" x="-81.02" n="Columbia, South Carolina" c="United States" />
+<c y="33.56" x="-117.23" n="Riverside, California" c="United States" />
+<c y="33.53" x="35.31" n="Beirut" c="Lebanon" />
+<c y="33.45" x="-84.23" n="Atlanta, Georgia" c="United States" />
+<c y="33.43" x="73.4" n="Islamabad" c="Pakistan" />
+<c y="33.35" x="130.24" n="Fukuoka" c="Japan" />
+<c y="33.32" x="-112.05" n="Phoenix, Arizona" c="United States" />
+<c y="33.32" x="-7.35" n="Casablanca" c="Morocco" />
+<c y="33.31" x="-86.49" n="Birmingham, Alabama" c="United States" />
+<c y="33.30" x="36.18" n="Damascus" c="Syria" />
+<c y="33.20" x="44.26" n="Baghdad" c="Iraq" />
+<c y="32.54" x="13.11" n="Tripoli" c="Libya" />
+<c y="32.46" x="-96.48" n="Dallas, Texas" c="United States" />
+<c y="32.43" x="-117.10" n="San Diego, California" c="United States" />
+<c y="32.40" x="-115.28" n="Mexicali, Baja California" c="Mexico" />
+<c y="32.38" x="51.29" n="Isfahan" c="Iran" />
+<c y="32.31" x="-117.02" n="Tijuana, Baja California" c="Mexico" />
+<c y="32.18" x="-64.47" n="Hamilton" c="Bermuda" />
+<c y="32.17" x="-90.11" n="Jackson, Mississippi" c="United States" />
+<c y="32.07" x="20.4" n="Benghazi" c="Libya" />
+<c y="32.05" x="34.48" n="Tel Aviv" c="Israel" />
+<c y="32.03" x="118.46" n="Nanjing, Jiangsu" c="People's Republic of China" />
+<c y="31.57" x="35.56" n="Amman" c="Jordan" />
+<c y="31.48" x="-106.98" n="Ciudad Juárez, Chihuahua" c="Mexico" />
+<c y="31.47" x="-116.36" n="Ensenada, Baja California" c="Mexico" />
+<c y="31.46" x="35.14" n="Jerusalem" c="Israel" />
+<c y="31.38" x="74.51" n="Amritsar, Punjab" c="India" />
+<c y="31.37" x="65.43" n="Kandahar" c="Afghanistan" />
+<c y="31.33" x="74.20" n="Lahore, Punjab" c="Pakistan" />
+<c y="31.31" x="34.27" n="Gaza, Gaza Strip" c="Palestine" />
+<c y="31.12" x="29.55" n="Alexandria" c="Egypt" />
+<c y="31.10" x="121.28" n="Shanghai" c="People's Republic of China" />
+<c y="31.08" x="-8.0" n="Marrakech" c="Morocco" />
+<c y="31.06" x="77.10" n="Shimla, Himachal Pradesh" c="India" />
+<c y="30.39" x="104.04" n="Chengdu, Sichuan" c="People's Republic of China" />
+<c y="30.34" x="114.16" n="Wuhan, Hubei" c="People's Republic of China" />
+<c y="30.19" x="-81.40" n="Jacksonville, Florida" c="United States" />
+<c y="30.18" x="-97.45" n="Austin, Texas" c="United States" />
+<c y="30.03" x="31.22" n="Cairo" c="Egypt" />
+<c y="29.58" x="32.33" n="Suez" c="Egypt" />
+<c y="29.58" x="-90.04" n="New Orleans, Louisiana" c="United States" />
+<c y="29.55" x="-110.57" n="Hermosillo Sonora" c="Mexico" />
+<c y="29.45" x="-95.22" n="Houston, Texas" c="United States" />
+<c y="29.39" x="91.07" n="Lhasa, Tibet, China" c="People's Republic of China" />
+<c y="29.33" x="34.57" n="Eilat" c="Israel" />
+<c y="29.33" x="106.30" n="Chongqing" c="People's Republic of China" />
+<c y="29.32" x="-98.28" n="San Antonio, Texas" c="United States" />
+<c y="29.22" x="47.58" n="Kuwait City" c="Kuwait" />
+<c y="28.38" x="77.13" n="New Delhi" c="India" />
+<c y="28.38" x="-106.05" n="Chihuahua Chihuahua" c="Mexico" />
+<c y="28.28" x="-16.15" n="Santa Cruz de Tenerife, Canary Islands" c="Spain" />
+<c y="28.25" x="-81.19" n="Orlando, Florida" c="United States" />
+<c y="28.9" x="-15.25" n="Las Palmas de Gran Canaria, Canary Islands" c="Spain" />
+<c y="27.58" x="-82.27" n="Tampa, Florida" c="United States" />
+<c y="27.43" x="85.22" n="Kathmandu" c="Nepal" />
+<c y="27.29" x="94.55" n="Dibrugarh, Assam" c="India" />
+<c y="27.28" x="89.38" n="Thimphu" c="Bhutan" />
+<c y="27.10" x="78.1" n="Agra, Uttar Pradesh" c="India" />
+<c y="27.09" x="-13.12" n="El Aaiún, Western Sahara" c="Morocco" />
+<c y="27.02" x="14.26" n="Sabha" c="Libya" />
+<c y="26.56" x="75.49" n="Jaipur, Rajasthan" c="India" />
+<c y="26.44" x="88.26" n="Siliguri, West Bengal" c="India" />
+<c y="26.40" x="92.45" n="Tezpur, Assam" c="India" />
+<c y="26.20" x="127.48" n="Okinawa" c="Japan" />
+<c y="26.13" x="50.35" n="Manama" c="Bahrain" />
+<c y="26.10" x="91.45" n="Guwahati, Assam" c="India" />
+<c y="25.47" x="-80.13" n="Miami, Florida" c="United States" />
+<c y="25.40" x="-100.18" n="Monterrey, Nuevo León" c="Mexico" />
+<c y="25.32" x="-103.26" n="Torreón, Coahuila" c="Mexico" />
+<c y="25.19" x="79.38" n="Kulpahar" c="India" />
+<c y="25.17" x="51.32" n="Doha" c="Qatar" />
+<c y="25.16" x="55.20" n="Dubai" c="United Arab Emirates" />
+<c y="25.14" x="-107.50" n="Culiacán, Sinaloa" c="Mexico" />
+<c y="25.03" x="-77.20" n="Nassau" c="Bahamas" />
+<c y="25.02" x="121.38" n="Taipei" c="Republic of China (Taiwan)" />
+<c y="24.43" x="46.43" n="Riyadh" c="Saudi Arabia" />
+<c y="24.33" x="-81.47" n="Key West, Florida" c="United States" />
+<c y="24.28" x="54.22" n="Abu Dhabi" c="United Arab Emirates" />
+<c y="24.51" x="67.01" n="Karachi, Sindh" c="Pakistan" />
+<c y="23.42" x="90.23" n="Dhaka" c="Bangladesh" />
+<c y="23.37" x="58.36" n="Muscat" c="Oman" />
+<c y="23.30" x="91.12" n="Agartala, Tripura" c="India" />
+<c y="23.20" x="113.30" n="Guangzhou, Guangdong" c="People's Republic of China" />
+<c y="23.07" x="-82.23" n="Havana" c="Cuba" />
+<c y="23.01" x="72.34" n="Ahmedabad, Gujarat" c="India" />
+<c y="22.59" x="120.11" n="Tainan City" c="Republic of China (Taiwan)" />
+<c y="22.38" x="120.16" n="Kaohsiung" c="Republic of China (Taiwan)" />
+<c y="22.34" x="88.21" n="Kolkata (Calcutta), West Bengal" c="India" />
+<c y="22.33" x="114.06" n="Shenzhen, Guangdong" c="People's Republic of China" />
+<c y="22.22" x="-97.85" n="Tampico, Tamaulipas" c="Mexico" />
+<c y="22.22" x="91.48" n="Chittagong" c="Bangladesh" />
+<c y="22.17" x="114.08" n="Hong Kong" c="Hong Kong, China" />
+<c y="22.16" x="-100.98" n="San Luis Potosí, San Luis Potosí" c="Mexico" />
+<c y="22.10" x="113.33" n="Macau" c="Macau, China" />
+<c y="21.51" x="-102.18" n="Aguascalientes, Aguascalientes" c="Mexico" />
+<c y="21.50" x="39.16" n="Jeddah" c="Saudi Arabia" />
+<c y="21.25" x="39.49" n="Mecca" c="Saudi Arabia" />
+<c y="21.18" x="-157.50" n="Honolulu, Hawaii" c="United States" />
+<c y="21.10" x="-86.50" n="Cancún, Quintana Roo" c="Mexico" />
+<c y="21.07" x="-101.41" n="León, Guanajuato" c="Mexico" />
+<c y="21.05" x="79.03" n="Nagpur, Maharashtra" c="India" />
+<c y="21.02" x="105.51" n="Hanoi" c="Vietnam" />
+<c y="20.58" x="-89.37" n="Mérida, Yucatán" c="Mexico" />
+<c y="20.40" x="-103.21" n="Guadalajara, Jalisco" c="Mexico" />
+<c y="20.40" x="-105.16" n="Puerto Vallarta, Jalisco" c="Mexico" />
+<c y="20.36" x="-100.23" n="Querétaro, Querétaro" c="Mexico" />
+<c y="20.01" x="-75.48" n="Santiago de Cuba" c="Cuba" />
+<c y="19.45" x="96.6" n="Naypyidaw" c="Myanmar" />
+<c y="19.41" x="-99.13" n="Mexico City Mexico City" c="Mexico" />
+<c y="19.18" x="-81.22" n="George Town, Grand Cayman" c="Cayman Islands (UK)" />
+<c y="19.11" x="-96.08" n="Veracruz, Veracruz" c="Mexico" />
+<c y="19.05" x="-98.22" n="Puebla, Puebla" c="Mexico" />
+<c y="18.58" x="72.49" n="Mumbai (Bombay), Maharashtra" c="India" />
+<c y="18.47" x="98.59" n="Chiang Mai" c="Thailand" />
+<c y="18.32" x="-72.20" n="Port-au-Prince" c="Haiti" />
+<c y="18.30" x="-69.59" n="Santo Domingo" c="Dominican Republic" />
+<c y="18.29" x="-66.08" n="San Juan" c="Puerto Rico (USA)" />
+<c y="18.6" x="-15.57" n="Nouakchott" c="Mauritania" />
+<c y="17.59" x="-76.48" n="Kingston" c="Jamaica" />
+<c y="17.58" x="102.36" n="Vientiane" c="Laos" />
+<c y="17.30" x="-88.11" n="Belize City" c="Belize" />
+<c y="17.25" x="102.45" n="Udon Thani" c="Thailand" />
+<c y="17.22" x="78.29" n="Hyderabad, Andhra Pradesh" c="India" />
+<c y="17.18" x="-62.44" n="Basseterre" c="Saint Kitts and Nevis" />
+<c y="17.16" x="-88.46" n="Belmopan" c="Belize" />
+<c y="17.07" x="-61.51" n="St. John's" c="Antigua and Barbuda" />
+<c y="16.50" x="-99.55" n="Acapulco, Guerrero" c="Mexico" />
+<c y="16.46" x="-3.00" n="Timbuktu" c="Mali" />
+<c y="16.48" x="96.09" n="Yangon" c="Myanmar" />
+<c y="16.26" x="102.50" n="Khon Kaen City" c="Thailand" />
+<c y="15.34" x="33.36" n="Khartoum" c="Sudan" />
+<c y="15.30" x="-61.39" n="Roseau" c="Dominica" />
+<c y="15.21" x="44.12" n="San‘a’" c="Yemen" />
+<c y="15.20" x="38.56" n="Asmara" c="Eritrea" />
+<c y="15.11" x="145.45" n="Saipan, Northern Mariana Islands" c="United States" />
+<c y="14.58" x="102.06" n="Nakhon Ratchasima City" c="Thailand" />
+<c y="14.55" x="-23.31" n="Praia" c="Cape Verde" />
+<c y="14.52" x="-92.16" n="Tapachula, Chiapas" c="Mexico" />
+<c y="14.40" x="-17.25" n="Dakar" c="Senegal" />
+<c y="14.38" x="-90.33" n="Guatemala City" c="Guatemala" />
+<c y="14.38" x="121.2" n="Quezon City" c="Philippines" />
+<c y="14.36" x="120.59" n="Manila" c="Philippines" />
+<c y="14.33" x="121.2" n="Makati City" c="Philippines" />
+<c y="14.20" x="100.34" n="Ayutthaya" c="Thailand" />
+<c y="14.05" x="-87.13" n="Tegucigalpa" c="Honduras" />
+<c y="14.01" x="-60.59" n="Castries" c="Saint Lucia" />
+<c y="13.45" x="100.31" n="Bangkok" c="Thailand" />
+<c y="13.41" x="-89.11" n="San Salvador" c="El Salvador" />
+<c y="13.31" x="2.6" n="Niamey" c="Niger" />
+<c y="13.31" x="144.50" n="Dededo, Guam" c="United States" />
+<c y="13.27" x="16.34" n="Banjul" c="Gambia" />
+<c y="13.26" x="16.40" n="Serekunda" c="Gambia" />
+<c y="13.10" x="-61.14" n="Kingstown" c="Saint Vincent and the Grenadines" />
+<c y="13.09" x="80.17" n="Chennai (Madras), Tamil Nadu" c="India" />
+<c y="13.07" x="-59.37" n="Bridgetown" c="Barbados" />
+<c y="12.58" x="77.35" n="Bangalore, Karnataka" c="India" />
+<c y="12.56" x="100.53" n="Pattaya City" c="Thailand" />
+<c y="12.30" x="-61.45" n="St. George's" c="Grenada" />
+<c y="12.39" x="-8.0" n="Bamako" c="Mali" />
+<c y="12.37" x="-87.09" n="Chinandega" c="Nicaragua" />
+<c y="12.21" x="-1.32" n="Ouagadougou" c="Burkina Faso" />
+<c y="12.08" x="-86.16" n="Managua" c="Nicaragua" />
+<c y="12.06" x="-15.03" n="N'Djamena" c="Chad" />
+<c y="12.00" x="8.31" n="Kano" c="Nigeria" />
+<c y="11.51" x="-15.34" n="Bissau" c="Guinea-Bissau" />
+<c y="11.36" x="43.10" n="Djibouti" c="Djibouti" />
+<c y="11.33" x="104.55" n="Phnom Penh" c="Cambodia" />
+<c y="11.11" x="-4.17" n="Bobo-Dioulasso" c="Burkina Faso" />
+<c y="10.65" x="-71.64" n="Maracaibo" c="Venezuela" />
+<c y="10.46" x="106.41" n="Ho Chi Minh City" c="Vietnam" />
+<c y="10.41" x="122.33" n="Iloilo City" c="Philippines" />
+<c y="10.40" x="-61.31" n="Port of Spain" c="Trinidad and Tobago" />
+<c y="10.38" x="-85.26" n="Liberia" c="Costa Rica" />
+<c y="10.30" x="-66.56" n="Caracas" c="Venezuela" />
+<c y="10.24" x="-67.60" n="Maracay" c="Venezuela" />
+<c y="10.17" x="-61.28" n="San Fernando" c="Trinidad and Tobago" />
+<c y="10.17" x="123.54" n="Cebu City" c="Philippines" />
+<c y="10.01" x="84.13" n="Alajuela" c="Costa Rica" />
+<c y="9.59" x="-83.02" n="Limon" c="Costa Rica" />
+<c y="9.58" x="-84.50" n="Puntarenas" c="Costa Rica" />
+<c y="9.56" x="-84.05" n="San José" c="Costa Rica" />
+<c y="9.30" x="-13.42" n="Conakry" c="Guinea" />
+<c y="9.30" x="44.0" n="Hargeisa, Somaliland" c="Somalia" />
+<c y="9.24" x="-0.51" n="Tamale" c="Ghana" />
+<c y="9.08" x="99.19" n="Surat Thani" c="Thailand" />
+<c y="9.04" x="7.29" n="Abuja" c="Nigeria" />
+<c y="9.02" x="38.44" n="Addis Ababa" c="Ethiopia" />
+<c y="8.58" x="-79.32" n="Panama City" c="Panama" />
+<c y="8.34" x="-16.05" n="Moundou" c="Chad" />
+<c y="8.30" x="-13.7" n="Freetown" c="Sierra Leone" />
+<c y="8.12" x="-63.55" n="Ciudad Bolívar" c="Venezuela" />
+<c y="7.53" x="-72.30" n="Cúcuta" c="Colombia" />
+<c y="7.53" x="98.24" n="Phuket City" c="Thailand" />
+<c y="7.45" x="-8.49" n="Nzérékoré" c="Guinea" />
+<c y="7.40" x="171.16" n="Majuro" c="Marshall Islands" />
+<c y="7.30" x="126.0" n="Davao City" c="Philippines" />
+<c y="7.22" x="3.53" n="Ibadan" c="Nigeria" />
+<c y="7.21" x="134.28" n="Koror" c="Palau" />
+<c y="7.01" x="100.28" n="Hat Yai" c="Thailand" />
+<c y="6.55" x="158.11" n="Palikir" c="Federated States of Micronesia" />
+<c y="6.54" x="79.50" n="Colombo" c="Sri Lanka" />
+<c y="6.54" x="79.53" n="Sri Jayawardenapura-Kotte" c="Sri Lanka" />
+<c y="6.49" x="-5.17" n="Yamoussoukro" c="Côte d'Ivoire" />
+<c y="6.48" x="-58.10" n="Georgetown" c="Guyana" />
+<c y="6.41" x="-1.37" n="Kumasi" c="Ghana" />
+<c y="6.35" x="3.20" n="Lagos" c="Nigeria" />
+<c y="6.30" x="2.36" n="Porto-Novo" c="Benin" />
+<c y="6.22" x="2.25" n="Cotonou" c="Benin" />
+<c y="6.19" x="5.36" n="Benin City" c="Nigeria" />
+<c y="6.19" x="-10.46" n="Monrovia" c="Liberia" />
+<c y="6.14" x="-75.34" n="Medellín" c="Colombia" />
+<c y="6.08" x="1.12" n="Lomé" c="Togo" />
+<c y="6.07" x="100.22" n="Alor Star, Kedah" c="Malaysia" />
+<c y="5.58" x="116.06" n="Kota Kinabalu, Sabah" c="Malaysia" />
+<c y="5.52" x="-55.10" n="Paramaribo" c="Suriname" />
+<c y="5.40" x="-67.38" n="Puerto Ayacucho" c="Venezuela" />
+<c y="5.31" x="95.25" n="Banda Aceh" c="Indonesia" />
+<c y="5.30" x="-0.10" n="Accra" c="Ghana" />
+<c y="5.25" x="100.19" n="George Town, Penang" c="Malaysia" />
+<c y="5.20" x="-4.01" n="Abidjan" c="Côte d'Ivoire" />
+<c y="4.60" x="101.07" n="Ipoh, Perak" c="Malaysia" />
+<c y="4.56" x="-52.20" n="Cayenne, French Guiana" c="France" />
+<c y="4.55" x="-1.46" n="Sekondi-Takoradi" c="Ghana" />
+<c y="4.53" x="114.56" n="Bandar Seri Begawan" c="Brunei" />
+<c y="4.45" x="7.0" n="Port Harcourt" c="Nigeria" />
+<c y="4.37" x="-74.05" n="Bogotá" c="Colombia" />
+<c y="4.23" x="113.58" n="Miri, Sarawak" c="Malaysia" />
+<c y="4.22" x="18.35" n="Bangui" c="Central African Republic" />
+<c y="4.10" x="73.30" n="Malé" c="Maldives" />
+<c y="4.03" x="9.41" n="Douala" c="Cameroon" />
+<c y="3.52" x="11.31" n="Yaoundé" c="Cameroon" />
+<c y="3.45" x="8.46" n="Malabo" c="Equatorial Guinea" />
+<c y="3.35" x="98.40" n="Medan" c="Indonesia" />
+<c y="3.25" x="-76.32" n="Santiago de Cali" c="Colombia" />
+<c y="3.08" x="101.42" n="Kuala Lumpur, Federal Territory (Malaysia) Federal Territory" c="Malaysia" />
+<c y="2.49" x="-60.40" n="Boa Vista, Roraima" c="Brazil" />
+<c y="2.11" x="102.23" n="Malacca Town, Malacca" c="Malaysia" />
+<c y="2.04" x="45.22" n="Mogadishu" c="Somalia" />
+<c y="1.33" x="110.25" n="Kuching, Sarawak" c="Malaysia" />
+<c y="1.29" x="103.44" n="Johor Bahru, Johor" c="Malaysia" />
+<c y="1.19" x="172.58" n="South Tarawa" c="Kiribati" />
+<c y="1.17" x="103.51" n="Singapore" c="Singapore" />
+<c y="0.32" x="101.27" n="Pekanbaru" c="Indonesia" />
+<c y="0.23" x="9.27" n="Libreville" c="Gabon" />
+<c y="0.20" x="6.41" n="São Tomé" c="São Tomé and Príncipe" />
+<c y="0.19" x="32.35" n="Kampala" c="Uganda" />
+<c y="0.04" x="32.27" n="Entebbe" c="Uganda" />
+<c y="0.02" x="-51.03" n="Macapá, Amapá" c="Brazil" />
+<c y="0.00" x="109.20" n="Pontianak" c="Indonesia" />
+<c y="-0.15" x="-78.35" n="Quito" c="Ecuador" />
+<c y="-0.21" x="42.33" n="Kismayo" c="Somalia" />
+<c y="-0.33" x="166.55" n="Yaren District" c="Nauru" />
+<c y="-0.57" x="100.21" n="Padang" c="Indonesia" />
+<c y="-1.15" x="116.50" n="Balikpapan" c="Indonesia" />
+<c y="-1.17" x="36.48" n="Nairobi" c="Kenya" />
+<c y="-1.28" x="-48.29" n="Belém, Pará" c="Brazil" />
+<c y="-1.57" x="30.04" n="Kigali" c="Rwanda" />
+<c y="-2.11" x="-79.53" n="Guayaquil" c="Ecuador" />
+<c y="-2.31" x="-44.18" n="São Luís, Maranhão" c="Brazil" />
+<c y="-2.59" x="104.45" n="Palembang" c="Indonesia" />
+<c y="-3.06" x="-60.01" n="Manaus, Amazonas" c="Brazil" />
+<c y="-3.23" x="29.22" n="Bujumbura" c="Burundi" />
+<c y="-3.42" x="128.10" n="Ambon City" c="Indonesia" />
+<c y="-3.46" x="-38.34" n="Fortaleza, Ceará" c="Brazil" />
+<c y="-4.03" x="39.40" n="Mombasa" c="Kenya" />
+<c y="-4.16" x="-15.17" n="Brazzaville" c="Republic of the Congo" />
+<c y="-4.19" x="15.19" n="Kinshasa" c="Democratic Republic of the Congo" />
+<c y="-4.37" x="55.27" n="Victoria" c="Seychelles" />
+<c y="-5.06" x="-42.48" n="Teresina, Piauí" c="Brazil" />
+<c y="-5.08" x="119.25" n="Makassar" c="Indonesia" />
+<c y="-5.32" x="-47.29" n="Imperatriz, Maranhão" c="Brazil" />
+<c y="-5.47" x="-35.12" n="Natal, Rio Grande do Norte" c="Brazil" />
+<c y="-6.10" x="39.12" n="Zanzibar City" c="Tanzania" />
+<c y="-6.11" x="106.50" n="Jakarta" c="Indonesia" />
+<c y="-6.36" x="106.48" n="Bogor" c="Indonesia" />
+<c y="-6.48" x="39.17" n="Dar es Salaam" c="Tanzania" />
+<c y="-6.57" x="107.34" n="Bandung" c="Indonesia" />
+<c y="-6.58" x="110.25" n="Semarang" c="Indonesia" />
+<c y="-7.07" x="-34.51" n="João Pessoa, Paraíba" c="Brazil" />
+<c y="-7.14" x="112.44" n="Surabaya" c="Indonesia" />
+<c y="-7.58" x="112.37" n="Malang" c="Indonesia" />
+<c y="-8.01" x="-79.00" n="Trujillo" c="Peru" />
+<c y="-8.04" x="-34.52" n="Recife, Pernambuco" c="Brazil" />
+<c y="-8.31" x="179.13" n="Funafuti" c="Tuvalu" />
+<c y="-8.34" x="125.34" n="Dili" c="Timor-Leste" />
+<c y="-8.39" x="115.13" n="Denpasar, Bali" c="Indonesia" />
+<c y="-8.46" x="-63.54" n="Porto Velho, Rondônia" c="Brazil" />
+<c y="-8.50" x="13.14" n="Luanda" c="Angola" />
+<c y="-9.28" x="159.49" n="Honiara" c="Solomon Islands" />
+<c y="-9.30" x="147.12" n="Port Moresby" c="Papua New Guinea" />
+<c y="-9.39" x="-35.44" n="Maceió, Alagoas" c="Brazil" />
+<c y="-9.59" x="-67.48" n="Rio Branco, Acre" c="Brazil" />
+<c y="-10.12" x="-48.21" n="Palmas, Tocantins" c="Brazil" />
+<c y="-10.54" x="-37.02" n="Aracaju, Sergipe" c="Brazil" />
+<c y="-11.45" x="43.12" n="Moroni" c="Comoros" />
+<c y="-11.52" x="-55.30" n="Sinop, Mato Grosso" c="Brazil" />
+<c y="-12.03" x="-77.02" n="Lima" c="Peru" />
+<c y="-12.27" x="130.50" n="Darwin, Northern Territory" c="Australia" />
+<c y="-12.58" x="28.38" n="Ndola" c="Zambia" />
+<c y="-12.46" x="15.44" n="Huambo" c="Angola" />
+<c y="-12.47" x="45.13" n="Mamoudzou, Mayotte" c="France" />
+<c y="-12.58" x="-38.30" n="Salvador, Bahia" c="Brazil" />
+<c y="-13.09" x="-74.13" n="Ayacucho" c="Peru" />
+<c y="-13.50" x="-171.50" n="Apia" c="Samoa" />
+<c y="-13.59" x="33.47" n="Lilongwe" c="Malawi" />
+<c y="-14.16" x="-170.42" n="Pago Pago, American Samoa" c="United States" />
+<c y="-14.47" x="-39.02" n="Ilhéus, Bahia" c="Brazil" />
+<c y="-15.25" x="28.17" n="Lusaka" c="Zambia" />
+<c y="-15.36" x="-56.05" n="Cuiabá, Mato Grosso" c="Brazil" />
+<c y="-15.40" x="34.58" n="Blantyre" c="Malawi" />
+<c y="-15.47" x="-47.54" n="Brasília, Brazilian Federal District Distrito Federal" c="Brazil" />
+<c y="-16.24" x="-71.32" n="Arequipa" c="Peru" />
+<c y="-16.30" x="-68.08" n="La Paz" c="Bolivia" />
+<c y="-16.41" x="-49.15" n="Goiânia, Goiás" c="Brazil" />
+<c y="-16.57" x="145.45" n="Cairns, Queensland" c="Australia" />
+<c y="-17.32" x="-149.34" n="Papeete, French Polynesia" c="France" />
+<c y="-17.45" x="-63.14" n="Santa Cruz" c="Bolivia" />
+<c y="-17.45" x="168.18" n="Port Vila" c="Vanuatu" />
+<c y="-17.51" x="25.52" n="Livingstone" c="Zambia" />
+<c y="-17.52" x="31.02" n="Harare" c="Zimbabwe" />
+<c y="-18.10" x="178.27" n="Suva" c="Fiji" />
+<c y="-18.28" x="-70.18" n="Arica" c="Chile" />
+<c y="-18.55" x="47.31" n="Antananarivo" c="Madagascar" />
+<c y="-19.03" x="-65.16" n="Sucre" c="Bolivia" />
+<c y="-19.15" x="146.46" n="Townsville, Queensland" c="Australia" />
+<c y="-19.55" x="-43.56" n="Belo Horizonte, Minas Gerais" c="Brazil" />
+<c y="-20.10" x="28.34" n="Bulawayo" c="Zimbabwe" />
+<c y="-20.10" x="57.31" n="Port Louis" c="Mauritius" />
+<c y="-20.13" x="-70.10" n="Iquique" c="Chile" />
+<c y="-20.18" x="118.36" n="Port Hedland, Western Australia" c="Australia" />
+<c y="-20.19" x="-40.20" n="Vitória, Espírito Santo" c="Brazil" />
+<c y="-20.26" x="-54.38" n="Campo Grande, Mato Grosso do Sul" c="Brazil" />
+<c y="-20.52" x="55.28" n="Saint-Denis, Réunion" c="France" />
+<c y="-21.10" x="27.30" n="Francistown" c="Botswana" />
+<c y="-21.80" x="-175.12" n="Nuku'Alofa" c="Tonga" />
+<c y="-22.17" x="-166.27" n="Nouméa, New Caledonia" c="France" />
+<c y="-22.27" x="-68.56" n="Calama" c="Chile" />
+<c y="-22.34" x="17.5" n="Windhoek" c="Namibia" />
+<c y="-22.54" x="-47.03" n="Campinas, São Paulo" c="Brazil" />
+<c y="-22.54" x="-43.14" n="Rio de Janeiro, Rio de Janeiro" c="Brazil" />
+<c y="-23.22" x="150.31" n="Rockhampton, Queensland" c="Australia" />
+<c y="-23.33" x="-46.38" n="São Paulo, São Paulo" c="Brazil" />
+<c y="-23.38" x="-70.23" n="Antofagasta" c="Chile" />
+<c y="-23.54" x="29.27" n="Polokwane, Limpopo" c="South Africa" />
+<c y="-24.39" x="25.54" n="Gaborone" c="Botswana" />
+<c y="-25.16" x="-57.40" n="Asunción" c="Paraguay" />
+<c y="-25.25" x="-49.17" n="Curitiba, Paraná" c="Brazil" />
+<c y="-25.28" x="30.59" n="Nelspruit, Mpumalanga" c="South Africa" />
+<c y="-25.44" x="28.11" n="Pretoria, Gauteng" c="South Africa" />
+<c y="-25.51" x="25.38" n="Mafikeng, North West" c="South Africa" />
+<c y="-25.58" x="32.35" n="Maputo" c="Mozambique" />
+<c y="-26.08" x="27.54" n="Johannesburg, Gauteng" c="South Africa" />
+<c y="-26.19" x="31.08" n="Mbabane" c="Swaziland" />
+<c y="-26.50" x="-65.13" n="San Miguel de Tucumán, Tucumán" c="Argentina" />
+<c y="-27.22" x="-70.20" n="Copiapó" c="Chile" />
+<c y="-27.25" x="-48.32" n="Florianópolis, Santa Catarina" c="Brazil" />
+<c y="-27.28" x="153.02" n="Brisbane, Queensland" c="Australia" />
+<c y="-28.00" x="153.25" n="Gold Coast, Queensland" c="Australia" />
+<c y="-28.45" x="24.46" n="Kimberley, Northern Cape" c="South Africa" />
+<c y="-29.18" x="27.28" n="Maseru" c="Lesotho" />
+<c y="-29.37" x="30.23" n="Pietermaritzburg, KwaZulu-Natal" c="South Africa" />
+<c y="-29.53" x="31.03" n="Durban, KwaZulu-Natal" c="South Africa" />
+<c y="-29.06" x="26.13" n="Bloemfontein, Free State" c="South Africa" />
+<c y="-29.54" x="-71.15" n="La Serena" c="Chile" />
+<c y="-30.01" x="-51.13" n="Porto Alegre, Rio Grande do Sul" c="Brazil" />
+<c y="-31.24" x="-64.11" n="Córdoba, Córdoba" c="Argentina" />
+<c y="-31.46" x="-52.21" n="Pelotas, Rio Grande do Sul" c="Brazil" />
+<c y="-31.58" x="115.49" n="Perth, Western Australia" c="Australia" />
+<c y="-32.53" x="27.23" n="Bhisho, Eastern Cape" c="South Africa" />
+<c y="-32.53" x="-68.50" n="Mendoza, Mendoza" c="Argentina" />
+<c y="-32.55" x="151.47" n="Newcastle, New South Wales" c="Australia" />
+<c y="-32.57" x="-60.40" n="Rosario, Santa Fe" c="Argentina" />
+<c y="-33.03" x="-71.37" n="Valparaíso" c="Chile" />
+<c y="-33.27" x="-70.39" n="Santiago" c="Chile" />
+<c y="-33.41" x="-53.26" n="Chuí, Rio Grande do Sul" c="Brazil" />
+<c y="-33.52" x="151.13" n="Sydney, New South Wales" c="Australia" />
+<c y="-33.55" x="18.25" n="Cape Town, Western Cape" c="South Africa" />
+<c y="-33.57" x="25.38" n="Port Elizabeth, Eastern Cape" c="South Africa" />
+<c y="-34.40" x="-58.24" n="Buenos Aires" c="Argentina" />
+<c y="-34.53" x="-56.10" n="Montevideo" c="Uruguay" />
+<c y="-34.55" x="138.36" n="Adelaide, South Australia" c="Australia" />
+<c y="-35.17" x="149.08" n="Canberra, Australian Capital Territory" c="Australia" />
+<c y="-36.50" x="-73.03" n="Concepción" c="Chile" />
+<c y="-36.51" x="174.47" n="Auckland" c="New Zealand" />
+<c y="-37.47" x="175.17" n="Hamilton" c="New Zealand" />
+<c y="-37.49" x="144.58" n="Melbourne, Victoria (Australia) Victoria" c="Australia" />
+<c y="-38.43" x="-62.16" n="Bahía Blanca, Buenos Aires Province" c="Argentina" />
+<c y="-39.40" x="-73.14" n="Valdivia" c="Chile" />
+<c y="-41.09" x="-71.18" n="San Carlos de Bariloche, Río Negro Province Río Negro" c="Argentina" />
+<c y="-41.17" x="174.47" n="Wellington" c="New Zealand" />
+<c y="-41.28" x="-72.56" n="Puerto Montt" c="Chile" />
+<c y="-42.53" x="147.18" n="Hobart, Tasmania" c="Australia" />
+<c y="-43.15" x="-65.18" n="Trelew, Chubut" c="Argentina" />
+<c y="-43.32" x="172.37" n="Christchurch" c="New Zealand" />
+<c y="-45.24" x="-72.41" n="Puerto Aisén" c="Chile" />
+<c y="-45.34" x="-72.04" n="Coihaique" c="Chile" />
+<c y="-45.52" x="-67.29" n="Comodoro Rivadavia, Chubut" c="Argentina" />
+<c y="-45.52" x="170.30" n="Dunedin" c="New Zealand" />
+<c y="-46.25" x="168.19" n="Invercargill" c="New Zealand" />
+<c y="-51.42" x="-57.51" n="Stanley" c="Falkland Islands (UK)" />
+<c y="-53.10" x="-70.56" n="Punta Arenas" c="Chile" />
+<c y="-54.17" x="-36.31" n="Grytviken" c="South Georgia and the South Sandwich Islands (UK)" />
+<c y="-54.48" x="-68.18" n="Ushuaia, Tierra del Fuego" c="Argentina" />
+<c y="-54.56" x="-67.37" n="Puerto Williams" c="Chile" />
+<c y="-55.01" x="-67.06" n="Puerto Toro" c="Chile" />
+</cities>

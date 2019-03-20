@@ -1,0 +1,17 @@
+extern long ignbin(long ,double );
+extern long ignpoi(double );
+extern long ignbin_mt(long ,double ,int);
+extern long ignpoi_mt(double,int);
+extern double ranf_(void);
+extern double ranf_mt(int);
+extern void setall(long ,long);
+extern double sexpo_mt(int);
+extern double sexpo(void);
+extern long mltmod(long ,long ,long );
+extern double snorm(void);
+extern double snorm_mt(int);
+extern double fsign(double, double );
+extern double gengam(double,double);
+extern double gengam_mt(double,double,int);
+extern double sgamma(double);
+extern double sgamma_mt(double,int);

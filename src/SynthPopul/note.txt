@@ -1,0 +1,3 @@
+All main classes are declared in the header .h files and their implementations are in the corresponding .cpp files.
+The code main() function in main.cpp file.
+ 

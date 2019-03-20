@@ -1,0 +1,30 @@
+   =========================================================================
+   ==  NOTICE file for the Global Epidemic Simulator, Version 1.0 BETA    ==
+   =========================================================================
+
+   Copyright 2012, Wes Hinsley    <w.hinsley@imperial.ac.uk>
+                   Pavlo Minayev  <p.minayev@imperial.ac.uk>
+
+                   Neil Ferguson  <neil.ferguson@imperial.ac.uk>
+                   
+                       MRC Centre for Outbreak Analysis and Modelling
+                       Dept of Infectious Diseases and Epidemiology
+                       Imperial College London
+
+                   Stephen Emmott 
+
+                       Microsoft Research.
+
+   The software contains LodePNG, a free open source library for writing PNG 
+   files, by Lode Vandevenne. See the comments in lodepng.h and lodepng.cpp, 
+   which can be freely obtained from http://lodev.org/lodepng/
+
+   The Java Job Creator uses the Jaxen/Dom4J free libraries for XML support.
+   See http://jaxen.codehaus.org/ and http://dom4j.sourceforge.net, and the 
+   Java Statistical Classes from http://www.jsc.nildram.co.uk/
+
+   The border crossing data for global travel data were taken from the World 
+   Tourism Factbook 2004, used by kind permission of the World Tourism 
+   Organisation. (C) UNWTO, 9284404111. http://www.unwto.org.
+
+   The project up to this release was funded by Microsoft Research.

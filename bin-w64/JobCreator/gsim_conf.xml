@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ini left="20" top="20" width="1070" height="700">
+  <modelpath>../../data/Models</modelpath>
+  <nodeconfigpath>../../data/NodeConfigs</nodeconfigpath>
+  <gadmpath>../../data/AdminUnits</gadmpath>
+  <binw64path>../../bin-w64</binw64path>
+  <binlinuxpath>../../bin-linux</binlinuxpath>
+</ini>

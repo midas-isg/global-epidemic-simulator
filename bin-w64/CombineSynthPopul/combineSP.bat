@@ -1,0 +1,1 @@
+combine.exe script.txt
